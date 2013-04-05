@@ -1,5 +1,9 @@
 = Version history =
 
+2.0.1 (2013-04-05):
+
+- fixed: invalid simplecache url
+
 2.0 (2012-04-14):
 
 - changed: updated for Elgg 1.8
